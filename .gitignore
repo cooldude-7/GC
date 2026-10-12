@@ -1,0 +1,6 @@
+# crawled data (regenerate with: python -m gcsurplus crawl)
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
